@@ -1,14 +1,26 @@
-com/github/edimirj/citiesapi/CitiesApiApplication.java
- com.github.edimirj.citiesapi.CitiesApiApplication
-com/github/edimirj/citiesapi/countries/Country.java
- com.github.edimirj.citiesapi.countries.Country
 com/github/edimirj/citiesapi/countries/CountryResource.java
  com.github.edimirj.citiesapi.countries.CountryResource
-com/github/edimirj/citiesapi/staties/StateResource.java
- com.github.edimirj.citiesapi.staties.StateResource
+com/github/edimirj/citiesapi/countries/Country.java
+ com.github.edimirj.citiesapi.countries.Country
+com/github/edimirj/citiesapi/cities/City.java
+ com.github.edimirj.citiesapi.cities.City
+com/github/edimirj/citiesapi/CitiesApiApplication.java
+ com.github.edimirj.citiesapi.CitiesApiApplication
+com/github/edimirj/citiesapi/cities/PointType.java
+ com.github.edimirj.citiesapi.cities.PointType
+com/github/edimirj/citiesapi/cities/CityRepository.java
+ com.github.edimirj.citiesapi.cities.CityRepository
 com/github/edimirj/citiesapi/countries/repository/CountryRepository.java
  com.github.edimirj.citiesapi.countries.repository.CountryRepository
-com/github/edimirj/citiesapi/staties/StateRepository.java
- com.github.edimirj.citiesapi.staties.StateRepository
-com/github/edimirj/citiesapi/staties/State.java
- com.github.edimirj.citiesapi.staties.State
+com/github/edimirj/citiesapi/distances/service/DistanceService.java
+ com.github.edimirj.citiesapi.distances.service.DistanceService
+com/github/edimirj/citiesapi/states/State.java
+ com.github.edimirj.citiesapi.states.State
+com/github/edimirj/citiesapi/cities/CityResource.java
+ com.github.edimirj.citiesapi.cities.CityResource
+com/github/edimirj/citiesapi/states/StateResource.java
+ com.github.edimirj.citiesapi.states.StateResource
+com/github/edimirj/citiesapi/states/StateRepository.java
+ com.github.edimirj.citiesapi.states.StateRepository
+com/github/edimirj/citiesapi/distances/DistanceResource.java
+ com.github.edimirj.citiesapi.distances.DistanceResource
